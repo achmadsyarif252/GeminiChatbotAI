@@ -20,7 +20,7 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        buildConfigField("String", "API_KEY", "\"AIzaSyBl-_gVaBP5dHhUzP1YqnezAmO8OM0lUlE\"")
+        buildConfigField("String", "API_KEY", "\"YOUR_API_KEY\"")
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
